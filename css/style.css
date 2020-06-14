@@ -182,5 +182,53 @@ html {
 /* service part end */
 
 
+/* experience and education part start */
+
+.experience {
+    padding: 120px 0;
+    background: url(../img/workbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+}
+
+.work-experience {
+    background: url(../img/work01.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 65px 45px;
+}
+
+.work-experience h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 35px;
+    padding-bottom: 40px;
+    text-transform: uppercase;
+}
+
+.work-experience h5 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+}
+
+.work-experience p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    text-align: justify;
+}
+
+.hr-style {
+    border: none;
+    border-bottom: 1px solid #ffffff;
+}
+
+
+/* experience and education part end */
+
+
 /* font-family: 'Raleway', sans-serif;
 font-family: 'Roboto', sans-serif; */
