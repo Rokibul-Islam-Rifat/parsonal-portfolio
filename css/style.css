@@ -1,0 +1,186 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+/* header part start */
+
+.header {
+    background: url(../img/banner-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 40px 0;
+    height: 100vh;
+}
+
+.navbar-light .navbar-toggler {
+    border: 2px solid #ffffff;
+    border-radius: 0;
+}
+
+.navbar-light .navbar-toggler-icon {
+    background: none;
+}
+
+.navbar-light .navbar-toggler-icon {
+    background: none;
+    color: #ffffff;
+    font-size: 26px;
+    padding: 5px;
+}
+
+.menu ul li a {
+    color: #ffffff !important;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.main-content {
+    padding: 150px 0;
+    position: relative;
+}
+
+.main-content::before {
+    position: absolute;
+    content: '';
+    width: 51%;
+    height: 3px;
+    background: #9ab4be;
+    top: 54%;
+    left: 24%;
+}
+
+.main-content::after {
+    position: absolute;
+    content: '';
+    width: 51%;
+    height: 3px;
+    background: #9ab4be;
+    top: 30%;
+    left: 24%;
+}
+
+.main-content h2 {
+    font-size: 65px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
+    color: #ffffff;
+    letter-spacing: 15px;
+    text-transform: uppercase;
+}
+
+.main-content p {
+    font-size: 27px;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+}
+
+
+/* header part end */
+
+
+/* about part start */
+
+.about {
+    padding: 50px 0;
+}
+
+.about-content h4 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #000000;
+    padding: 20px 0;
+}
+
+.about-content p {
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    padding-bottom: 40px;
+}
+
+.btn-custom {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #ffffff !important;
+    background: #ff2b4a;
+    border-radius: 0;
+    padding: 18px 60px;
+    text-transform: capitalize;
+}
+
+
+/* about part end */
+
+
+/* service part start */
+
+.service {
+    padding: 100px 0;
+    background: #f6f6f6;
+}
+
+.service-title h2 {
+    font-family: 'Raleway', sans-serif;
+    color: #000000;
+    font-size: 45px;
+    font-weight: 700;
+    padding-bottom: 20px;
+    text-transform: capitalize;
+}
+
+.service-title p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+    color: #000000;
+}
+
+.service-content {
+    padding: 70px 0;
+}
+
+.service-content i {
+    font-size: 35px;
+    color: #ffffff;
+    padding-bottom: 30px;
+}
+
+.service-content p {
+    font-size: 20px;
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.bg-1 {
+    background: #10c6fc;
+}
+
+.bg-2 {
+    background: #835aeb;
+}
+
+.bg-3 {
+    background: #002453;
+}
+
+.bg-4 {
+    background: #ff2b4a;
+}
+
+
+/* service part end */
+
+
+/* font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif; */
