@@ -100,6 +100,15 @@
         text-align: center;
     }
     /* experience and education part end */
+    /* portfolio part start */
+    .portfolio {
+        padding: 30px 0;
+    }
+    .portfolio-title h2 {
+        font-size: 35px;
+        padding-bottom: 17px;
+    }
+    /* portfolio part end */
 }
 
 
@@ -174,6 +183,14 @@
         padding: 36px 70px;
     }
     /* experience and education part end */
+    /* portfolio part start */
+    .portfolio {
+        padding: 50px 0;
+    }
+    .portfolio-title h2 {
+        padding-bottom: 25px;
+    }
+    /* portfolio part end */
 }
 
 
