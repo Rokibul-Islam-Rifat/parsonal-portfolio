@@ -121,6 +121,7 @@
     /* message part start */
     .address {
         text-align: center;
+        margin-top: 25px;
     }
     .btn-bottom {
         text-align: center;
@@ -252,6 +253,9 @@
         padding: 13px 0;
         width: 100%;
     }
+    .address {
+        margin-top: 25px;
+    }
     /* message part end */
 }
 
@@ -325,6 +329,7 @@
     /* message part start */
     .address {
         text-align: center;
+        margin-top: 25px;
     }
     .btn-bottom {
         text-align: center;
