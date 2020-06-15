@@ -109,6 +109,46 @@
         padding-bottom: 17px;
     }
     /* portfolio part end */
+    /* slider part start */
+    .slider {
+        padding: 50px;
+        text-align: center;
+    }
+    .carousel-indicators li {
+        margin-bottom: -17%;
+    }
+    /* slider part end */
+    /* message part start */
+    .address {
+        text-align: center;
+    }
+    .btn-bottom {
+        text-align: center;
+    }
+    .btn-custom {
+        font-size: 15px;
+        padding: 13px 0;
+        width: 100%;
+    }
+    .contact {
+        padding: 30px 0;
+        background-image: radial-gradient(circle, #2e6879, #756a76);
+        color: #ffffff;
+    }
+    .message,
+    .address {
+        padding: 20px 10px;
+    }
+    /* message part end */
+    /* footer part start */
+    .social p {
+        font-size: 14px;
+    }
+    .social ul li a {
+        font-size: 16px;
+        padding: 0 7px;
+    }
+    /* footer part end */
 }
 
 
@@ -191,6 +231,28 @@
         padding-bottom: 25px;
     }
     /* portfolio part end */
+    /* slider part start */
+    .slider {
+        padding: 50px;
+        text-align: center;
+    }
+    .carousel-indicators li {
+        margin-bottom: -9%;
+    }
+    /* slider part end */
+    /* message part start */
+    .address {
+        text-align: center;
+    }
+    .btn-bottom {
+        text-align: center;
+    }
+    .btn-custom {
+        font-size: 15px;
+        padding: 13px 0;
+        width: 100%;
+    }
+    /* message part end */
 }
 
 
@@ -252,6 +314,27 @@
         padding: 36px 70px;
     }
     /* experience and education part end */
+    /* slider part start */
+    .slider-content i {
+        font-size: 45px;
+    }
+    .carousel-indicators li {
+        margin-bottom: -6%;
+    }
+    /* slider part end */
+    /* message part start */
+    .address {
+        text-align: center;
+    }
+    .btn-bottom {
+        text-align: center;
+    }
+    .btn-custom {
+        font-size: 15px;
+        padding: 13px 0;
+        width: 100%;
+    }
+    /* message part end */
 }
 
 
@@ -284,6 +367,11 @@
         padding-bottom: 0;
     }
     /* about part end */
+    /* slider part start */
+    .carousel-indicators li {
+        margin-bottom: -14%;
+    }
+    /* slider part end */
 }
 
 
